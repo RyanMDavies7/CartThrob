@@ -23,7 +23,7 @@ In the "Select a gateway to edit its settings" dropdown choose "Cardstream (Host
 
 **Step 4:**
 
-Configure the "Cardstream (Hosted)" payment gateway settings. Once configured, scroll down and click submit. The module has now been added to the checkout page.
+Configure the "Cardstream (Hosted)" payment gateway settings. Once configured, scroll down and locate "Allow Gateway Selection in Checkout Form?". Find "Cardstream (Hosted)" and check it, then click submit. The module has now been added to the checkout page.
 
 **Module Configuration:**
 
